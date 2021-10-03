@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Girl Unicorn Shirt",
+    "gender": "boy",
+    "category": "other",
+    "size": "3T",
+    "price": 4.97,
+    "priceCurrency": "USD",
+    "imageCover": "tour-2-cover.jpg",
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "bestRating": 4.5,
+    "ratingsQuantity": 6,
+    "quantity": 2,
+    "quality": "used",
+    "brand": "Carter's",
+    "color": "Red",
+    "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "productLocation": {
+      "type": "Point",
+      "coordinates": [-84.81926, 34.18565],
+      "city": "cartersville",
+      "state": "GA"
+    },
+    "location": [
+      {
+        "type": "Point",
+        "coordinates": [-84.81926, 34.18565],
+        "city": "cartersville",
+        "state": "GA"
+      }
+    ]
+  },
+  {
+    "name": "Boys 2 Men Glasses",
+    "gender": "boy",
+    "category": "clothes",
+    "size": "3T",
+    "price": 2.75,
+    "priceCurrency": "USD",
+    "imageCover": "tour-2-cover.jpg",
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "bestRating": 4,
+    "ratingsQuantity": 6,
+    "quantity": 2,
+    "quality": "used",
+    "brand": "Carter's",
+    "color": "Red",
+    "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "productLocation": {
+      "type": "Point",
+      "coordinates": [-84.39015, 33.77729],
+      "city": "atlanta",
+      "state": "GA"
+    },
+    "location": [
+      {
+        "type": "Point",
+        "coordinates": [-84.39015, 33.77729],
+        "city": "atlanta",
+        "state": "GA"
+      }
+    ]
+  },
+  {
+    "name": "Blue Apron Shirt",
+    "gender": "boy",
+    "category": "clothes",
+    "size": "3T",
+    "price": 3.97,
+    "priceCurrency": "USD",
+    "imageCover": "tour-2-cover.jpg",
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "bestRating": 3.5,
+    "ratingsQuantity": 6,
+    "quantity": 2,
+    "quality": "used",
+    "brand": "Carter's",
+    "color": "Red",
+    "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "productLocation": {
+      "type": "Point",
+      "coordinates": [-84.63704, 34.08355],
+      "city": "acworth",
+      "state": "GA"
+    },
+    "location": [
+      {
+        "type": "Point",
+        "coordinates": [-84.63704, 34.08355],
+        "city": "acworth",
+        "state": "GA"
+      }
+    ]
+  },
+  {
+    "name": "Dinausore Hat",
+    "gender": "girl",
+    "category": "toys",
+    "size": "3T",
+    "price": 1.97,
+    "priceCurrency": "USD",
+    "imageCover": "tour-2-cover.jpg",
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "bestRating": 4,
+    "ratingsQuantity": 6,
+    "quantity": 2,
+    "quality": "used",
+    "brand": "Carter's",
+    "color": "Red",
+    "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "productLocation": {
+      "type": "Point",
+      "coordinates": [-84.17003, 33.78912],
+      "city": "stone mountain",
+      "state": "GA"
+    },
+    "location": [
+      {
+        "type": "Point",
+        "coordinates": [-84.17003, 33.78912],
+        "city": "stone mountain",
+        "state": "GA"
+      }
+    ]
+  },
+  {
+    "name": "Teddy Bear",
+    "gender": "girl",
+    "category": "toys",
+    "size": "3T",
+    "price": 2.97,
+    "priceCurrency": "USD",
+    "imageCover": "tour-2-cover.jpg",
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "bestRating": 2.7,
+    "ratingsQuantity": 6,
+    "quantity": 2,
+    "quality": "used",
+    "brand": "Carter's",
+    "color": "Red",
+    "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "productLocation": {
+      "type": "Point",
+      "coordinates": [-84.82268, 33.92717],
+      "city": "dallas",
+      "state": "GA"
+    },
+    "location": [
+      {
+        "type": "Point",
+        "coordinates": [-84.82268, 33.92717],
+        "city": "dallas",
+        "state": "GA"
+      }
+    ]
+  },
+  {
+    "name": "Boy Dinausore Shirt",
+    "gender": "girl",
+    "category": "accessories",
+    "size": "3T",
+    "price": 2.05,
+    "priceCurrency": "USD",
+    "imageCover": "tour-2-cover.jpg",
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "bestRating": 4.7,
+    "ratingsQuantity": 10,
+    "quantity": 2,
+    "quality": "used",
+    "brand": "Carter's",
+    "color": "Blue",
+    "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "productLocation": {
+      "type": "Point",
+      "coordinates": [-84.51291, 33.86892],
+      "city": "smyrna",
+      "state": "GA"
+    },
+    "location": [
+      {
+        "type": "Point",
+        "coordinates": [-84.51291, 33.86892],
+        "city": "smyrna",
+        "state": "GA"
+      }
+    ]
+  },
+  {
+    "name": "Baby blanket",
+    "gender": "girl",
+    "category": "accessories",
+    "size": "3T",
+    "price": 3.97,
+    "priceCurrency": "USD",
+    "imageCover": "tour-2-cover.jpg",
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "bestRating": 4.8,
+    "ratingsQuantity": 6,
+    "quantity": 2,
+    "quality": "used",
+    "brand": "Carter's",
+    "color": "Red",
+    "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "productLocation": {
+      "type": "Point",
+      "coordinates": [-84.69232, 33.87224],
+      "city": "powder springs",
+      "state": "GA"
+    },
+    "location": [
+      {
+        "type": "Point",
+        "coordinates": [-84.69232, 33.87224],
+        "city": "powder springs",
+        "state": "GA"
+      }
+    ]
+  },
+  {
+    "name": "Duvet Cover",
+    "gender": "unisex",
+    "category": "accessories",
+    "size": "3T",
+    "price": 3.99,
+    "priceCurrency": "USD",
+    "imageCover": "tour-2-cover.jpg",
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "bestRating": 4.2,
+    "ratingsQuantity": 6,
+    "quantity": 2,
+    "quality": "used",
+    "brand": "Carter's",
+    "color": "Red",
+    "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "productLocation": {
+      "type": "Point",
+      "coordinates": [-84.4594, 33.65129],
+      "city": "college park",
+      "state": "GA"
+    },
+    "location": [
+      {
+        "type": "Point",
+        "coordinates": [-84.4594, 33.65129],
+        "city": "college park",
+        "state": "GA"
+      }
+    ]
+  },
+  {
+    "name": "Toddler Monster Truck",
+    "gender": "unisex",
+    "category": "other",
+    "size": "3T",
+    "price": 4.67,
+    "priceCurrency": "USD",
+    "imageCover": "tour-2-cover.jpg",
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "bestRating": 4,
+    "ratingsQuantity": 6,
+    "quantity": 2,
+    "quality": "used",
+    "brand": "Carter's",
+    "color": "Red",
+    "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "productLocation": {
+      "type": "Point",
+      "coordinates": [-85.18788, 34.26547],
+      "city": "rome",
+      "state": "GA"
+    },
+    "location": [
+      {
+        "type": "Point",
+        "coordinates": [-85.18788, 34.26547],
+        "city": "rome",
+        "state": "GA"
+      }
+    ]
+  }
+]
